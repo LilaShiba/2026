@@ -1,99 +1,14 @@
-# 2026 Plan — Stability Without False Ground
+# Writing
 
-> **Orientation:**  
-> There is no solid ground.  
-> There *are* conditions that reduce unnecessary suffering.
+## 📚 Spring Pipeline '26
 
-This plan is about arranging those conditions with care.
-
----
-
-## North Star (2026)
-
-**Reduce avoidable dukkha caused by financial and professional instability,  
-without abandoning continuity of self.**
-
-Relief, not inspiration, is the metric.
-
----
-
-## Primary Goals (Ordered by Survival Value)
-
-### 1. Consistent Income (Right Livelihood)
-- Objective: avoid unemployment in 2026
-- Criteria:
-  - Uses existing skills
-  - Does not require reinvention
-  - Minimizes nervous-system threat
-- Fulfillment is optional; sustainability is not.
-
-### 2. Single Professional Narrative
-- One credible lane
-- One sentence explanation
-- No fragmentation across identities or roles
-
-> This is a raft, not an identity.
-
-### 3. Continuity Through the Book (About Me)
-- The book is not a goal or outcome
-- It is a continuity practice
-- It must never compete with survival
-
-> *I do not disappear from my own story, even when conditions are unstable.*
-
----
-
-## Weekly Structure (Gantt-Style)
-
-**Legend**  
-- █ = primary energy  
-- ░ = light / low-energy  
-- ⌀ = optional / skip without guilt  
-
-```text
-WEEKLY TIME →   Mon   Tue   Wed   Thu   Fri   Sat   Sun
--------------------------------------------------------
-Income / Job
-Applications     ███   ░░░   ███   ░░░   ███    ⌀     ⌀
-Networking       ⌀     ░░░   ⌀     ░░░   ⌀      ⌀     ⌀
-
-Skill Maintenance
-(keep sharp)     ░░░   ⌀     ░░░   ⌀     ░░░    ⌀     ⌀
-
-Book About Me
-(writing)        ⌀     ⌀     ███   ⌀     ⌀      ░░░   ⌀
-
-Admin / Life
-(finances, email)░░░   ⌀     ⌀     ░░░   ⌀      ⌀     ⌀
-
-Rest / Integration
-(no optimization)⌀     ⌀     ⌀     ⌀     ⌀      ███   ███
-```
-
-
-## Focus Rules (Read When Doubt Arises)
-
-Income comes first when money anxiety spikes
-
-The book pauses first, not forever
-
-Missed weeks are not moral failures
-
-Stability is a condition, not a belief
-
-This plan is revised, not obeyed
-
-Buddhist Framing
-
-Right Livelihood: work that reduces harm and fragmentation
-
-Upāya (Skillful Means): adjust effort to conditions
-
-Non-Attachment: outcomes are not identities
-
-Practice: keep walking without solid ground
-
-
-No solid ground.
-Still walking.
-Still narrating.
+| Title | Status | Genre |
+|-------|--------|-------|
+| 🦬 [**A Wind Blows Heavy**](https://docs.google.com/document/d/12YIWzbifxnjeLmXlJyKrR72PaJxzmQH1zs1-FpNxCGk/edit?usp=sharing) | Published In [Boudin](https://www.mcneese.edu/thereview/the-wind-blows-heavy/) | CNF Flash |
+| 🩸 [**As I Lived**](https://docs.google.com/document/d/1SgBtx8WF2aG_y0vxIDfppFJ7XqRrIEdNonh0c6iFaDU/edit?usp=sharing) | Under Review | Fiction |
+| 🍅 [**Tomato**](https://docs.google.com/document/d/13ZjWnAzS7TYq2Jy3xOlLkLnUjSHgkSbCWoAaOdckMHE/edit?usp=sharing) |Publication Upcoming in [The Words Faire](https://www.thewordsfaire.com/) | CNF Micro |
+| 🪟 [**From a Window Sill**](https://docs.google.com/document/d/1EkHodpOoeKGmZjK_v4kQLNptoETfFl98U32vmd9fS4A/edit?usp=sharing) | Under Review |Non-Fiction |
+| 🌈 [**Through a Prism**](https://docs.google.com/document/d/1vqLotutH8xngYVTs0yz5svBcJij6GAhiQkjy-gY8sCg/edit?usp=sharing) | Under Review | CNF Flash |
+| 📅 [**Fridays Are For Nothing**](https://docs.google.com/document/d/1OIx6qgLGyCwPrLDPuU6dBXEt4g5UAkMd4T4rJjpQqT4/edit?usp=sharing) | Under Review | Fiction |
+| 🏔️ [**Drowning In Thin Air**](https://docs.google.com/document/d/1vedzMV8iJ907QAnEkNpEsBlQM-t9Y1Mqegq6jcYA0O4/edit?usp=sharing) | Under Review  | Fiction |
+| 🎗️ [**Tiles**](https://docs.google.com/document/d/1vyiyCDfYKHanFjM6L83ARRvhe7NNLWu2MaUnWxa3_wU/edit?usp=sharing) | Under Review  | Non-Fiction |
