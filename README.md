@@ -8,7 +8,7 @@ A running record of my current fiction and nonfiction projects across drafting, 
 - **Publication Upcoming** — Accepted and scheduled for publication.
 - **Under Review** — Currently being considered by editors.
 - **Drafting** — In the creation and development phase.
-- **Revision** *(if used later)* — Undergoing substantial edits after review.
+- **Revision** — Undergoing substantial edits after review.
 
 ## 📚 Spring Pipeline '26
 
