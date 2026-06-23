@@ -1,4 +1,9 @@
-# Writing
+# 
+Hi, I’m Lila-Josey James. I began submitting creative writing in the spring of 2026. It's a big jump from science, but after battleing blood cancer, big changes happened. This document serves as a living catalog and index of my work, keeping each piece organized as the archive grows.
+
+
+
+## Writing
 
 A running record of my current fiction and nonfiction projects across drafting, submission, and publication stages. This pipeline tracks where each piece is in the editorial process—from first draft to final acceptance or the desk drawer.
 
