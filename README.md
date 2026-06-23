@@ -1,7 +1,16 @@
+ <img 
+    src="https://raw.githubusercontent.com/LilaShiba/2026/main/me.jpg" 
+    alt="Lila-Josey James"
+    style="
+      width: 180px;
+      height: 230px;
+      object-fit: cover;
+      border-radius: 50%;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    "
+  />
 # 
 Hi, I’m Lila-Josey James. I began submitting creative writing in the spring of 2026. It's a big jump from science, but after battleing blood cancer, big changes happened. This document serves as a living catalog and index of my work, keeping each piece organized as the archive grows.
-
-
 
 ## Writing
 
