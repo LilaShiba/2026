@@ -1,5 +1,15 @@
 # Writing
 
+A running record of my current fiction and nonfiction projects across drafting, submission, and publication stages. This pipeline tracks where each piece is in the editorial process—from first draft to final acceptance or the desk drawer.
+
+## 🗝️ Key
+
+- **Published** — Work that has appeared in print or online.
+- **Publication Upcoming** — Accepted and scheduled for publication.
+- **Under Review** — Currently being considered by editors.
+- **Drafting** — In the creation and development phase.
+- **Revision** *(if used later)* — Undergoing substantial edits after review.
+
 ## 📚 Spring Pipeline '26
 
 | Title | Status | Genre |
