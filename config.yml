@@ -1,0 +1,19 @@
+description: ✨ Lila-Josey Writing ✨.
+theme: minima
+
+url: "https://lilaShiba.github.io"
+
+markdown: kramdown
+highlighter: rouge
+
+social_links:
+  github: "https://github.com/LilaShiba"
+
+# Custom CSS file link
+assets:
+  - "styles.css"
+# Remove Default Headers  
+header_pages: []
+title: false
+minima:
+  nav_pages: []
