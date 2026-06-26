@@ -1,13 +1,25 @@
-function loadStory(title, file) {
+document.addEventListener("DOMContentLoaded", () => {
 
-    document.getElementById("storyTitle").textContent = title;
+    const frame = document.getElementById("storyFrame");
+    const title = document.getElementById("storyTitle");
 
-    document.getElementById("storyFrame").src =
-        window.STORIES_BASE + encodeURIComponent(file);
+    document.querySelectorAll("[data-file]").forEach(link => {
 
-    document.getElementById("storyFrame")
-        .scrollIntoView({
-            behavior: "smooth",
-            block: "start"
+        link.addEventListener("click", e => {
+            e.preventDefault();
+
+            title.textContent = link.dataset.title;
+
+            frame.src =
+                window.STORIES_BASE +
+                link.dataset.file.replace(/ /g,"%20").replace(/;/g,"%3B");
+
+            frame.scrollIntoView({
+                behavior: "smooth"
+            });
         });
-}
+
+    });
+
+});
+
