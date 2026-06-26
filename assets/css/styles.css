@@ -10,6 +10,7 @@
     object-fit: cover;
     border-radius: 50%;
     display: block;
+<<<<<<< HEAD
     margin: 0 auto 1rem auto;
     box-shadow: 0 8px 20px rgba(0,0,0,0.15);
 }
@@ -30,41 +31,53 @@
 }
 
 .stories-table {
+=======
+    margin: 0 auto 2rem;
+    box-shadow: 0 8px 20px rgba(0,0,0,.15);
+}
+
+table {
+>>>>>>> parent of e9c2461 (v1)
     width: 100%;
     border-collapse: collapse;
-    margin-top: 1rem;
-}
-
-.stories-table th,
-.stories-table td {
-    padding: 0.75rem;
-    border-bottom: 1px solid #ddd;
-    text-align: left;
-}
-
-.story-link {
-    text-decoration: none;
-    font-weight: 600;
-    color: #111;
-}
-
-.story-link:hover {
-    text-decoration: underline;
-}
-
-.divider {
     margin: 2rem 0;
 }
 
-.viewer-title {
+th,
+td {
+    padding: .8rem;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    text-align: left;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#storyTitle {
+    margin-top: 2rem;
     margin-bottom: 1rem;
 }
 
+<<<<<<< HEAD
 /* PDF viewer container */
 .story-frame {
     width: 100%;
     height: 90vh;
     border: 1px solid #222;
+=======
+#storyFrame {
+    width: 100%;
+    height: 95vh;
+    border: 1px solid #ddd;
+>>>>>>> parent of e9c2461 (v1)
     border-radius: 10px;
 
     /* DARK MODE TRICK */
