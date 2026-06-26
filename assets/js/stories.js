@@ -3,32 +3,25 @@ document.addEventListener("DOMContentLoaded", () => {
     const frame = document.getElementById("storyFrame");
     const title = document.getElementById("storyTitle");
 
-    document.querySelectorAll("[data-file]").forEach(link => {
+    document.querySelectorAll(".story-link").forEach(link => {
 
-        link.addEventListener("click", e => {
+        link.addEventListener("click", (e) => {
             e.preventDefault();
 
-            const file = window.STORIES_BASE + link.dataset.file;
+            const file = link.dataset.file;
+            const storyTitle = link.dataset.title;
 
-            title.textContent = link.dataset.title;
+            title.textContent = storyTitle;
 
-<<<<<<< HEAD
-            // PDF.js viewer with dark inversion trick
-            frame.src =
-                "https://mozilla.github.io/pdf.js/web/viewer.html?file=" +
-                encodeURIComponent(file);
-=======
-            frame.src =
-                window.STORIES_BASE +
-                link.dataset.file.replace(/ /g,"%20").replace(/;/g,"%3B");
->>>>>>> parent of e9c2461 (v1)
+            // direct PDF load (THIS is what works on GitHub Pages)
+            frame.src = window.STORIES_BASE + file;
 
             frame.scrollIntoView({
-                behavior: "smooth"
+                behavior: "smooth",
+                block: "start"
             });
         });
 
     });
 
 });
-
