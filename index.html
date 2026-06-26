@@ -1,0 +1,109 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+
+<div class="portfolio">
+
+<img
+    src="https://raw.githubusercontent.com/LilaShiba/2026/main/me.jpg"
+    alt="Lila-Josey James"
+    class="portrait">
+
+<h1>Hi, I'm Lila-Josey James.</h1>
+
+<p>
+I began submitting creative writing in the spring of 2026. It's a big jump from science,
+but after battling blood cancer, big changes happened. This page serves as a living catalog
+and index of my work.
+</p>
+
+<h2>📚 Spring Pipeline '26</h2>
+
+<table>
+
+<thead>
+<tr>
+<th>Title</th>
+<th>Status</th>
+<th>Genre</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+<td><a href="#" onclick="loadStory('A Wind Blows Heavy','A Wind Blows Heavy.pdf');return false;">🦬 A Wind Blows Heavy</a></td>
+<td>Published in <a href="https://www.mcneese.edu/thereview/the-wind-blows-heavy/">Boudin</a></td>
+<td>CNF</td>
+</tr>
+
+<tr>
+<td><a href="#" onclick="loadStory('As I Lived','As I Lived.pdf');return false;">🩸 As I Lived</a></td>
+<td>Under Review</td>
+<td>Fiction</td>
+</tr>
+
+<tr>
+<td><a href="#" onclick="loadStory('Tomato','Tomato.pdf');return false;">🍅 Tomato</a></td>
+<td>Publication Upcoming</td>
+<td>CNF</td>
+</tr>
+
+<tr>
+<td><a href="#" onclick="loadStory('From a Window Sill','From A Window Sill; Summer.pdf');return false;">🪟 From a Window Sill</a></td>
+<td>Under Review</td>
+<td>Fiction</td>
+</tr>
+
+<tr>
+<td><a href="#" onclick="loadStory('Through a Prism','Through_A_Prism.pdf');return false;">🌈 Through a Prism</a></td>
+<td>Under Review</td>
+<td>CNF</td>
+</tr>
+
+<tr>
+<td><a href="#" onclick="loadStory('Fridays Are For Nothing','Fridays Are For Nothing.pdf');return false;">📅 Fridays Are For Nothing</a></td>
+<td>Under Review</td>
+<td>Fiction</td>
+</tr>
+
+<tr>
+<td><a href="#" onclick="loadStory('Drowning In Thin Air','Drowning In Thin Air.pdf');return false;">🏔️ Drowning In Thin Air</a></td>
+<td>Under Review</td>
+<td>Fiction</td>
+</tr>
+
+<tr>
+<td><a href="#" onclick="loadStory('Tiles','Tiles_summer.pdf');return false;">🎗️ Tiles</a></td>
+<td>Under Review</td>
+<td>Non-Fiction</td>
+</tr>
+
+<tr>
+<td><a href="#" onclick="loadStory('You Bark, I Stay','You Bark, I Stay.pdf');return false;">🐶 You Bark, I Stay</a></td>
+<td>Under Review</td>
+<td>CNF</td>
+</tr>
+
+</tbody>
+
+</table>
+
+<hr>
+
+<h2 id="storyTitle">Select a story to begin reading.</h2>
+
+<iframe
+    id="storyFrame"
+    loading="lazy">
+</iframe>
+
+</div>
+
+<script>
+window.STORIES_BASE = "{{ '/assets/writings/Spring_26/' | relative_url }}";
+</script>
+
+<script src="{{ '/assets/js/stories.js' | relative_url }}"></script>
