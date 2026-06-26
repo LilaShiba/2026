@@ -10,13 +10,12 @@
     object-fit: cover;
     border-radius: 50%;
     display: block;
-    margin: 0 auto 1.5rem auto;
+    margin: 0 auto 1rem auto;
     box-shadow: 0 8px 20px rgba(0,0,0,0.15);
 }
 
 .title {
     text-align: center;
-    margin-bottom: 0.5rem;
 }
 
 .intro {
@@ -24,7 +23,6 @@
     max-width: 750px;
     margin: 0 auto 2rem auto;
     line-height: 1.5;
-    color: #444;
 }
 
 .section-title {
@@ -62,10 +60,13 @@
     margin-bottom: 1rem;
 }
 
+/* PDF viewer container */
 .story-frame {
     width: 100%;
     height: 90vh;
-    border: 1px solid #ddd;
+    border: 1px solid #222;
     border-radius: 10px;
-    background: white;
+
+    /* DARK MODE TRICK */
+    filter: invert(1) hue-rotate(180deg);
 }
